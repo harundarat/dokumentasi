@@ -2,8 +2,6 @@
 
 This website allows users to create crowdfunding campaign and collect funds from donors. The collected funds will be stored in an Ethereum smart contract and will be distributed to the project after get approved by admin.
 
-![shields](https://cldup.com/dTxpPi9lDf.thumb.png)
-
 ## 🚀 Demo
 
 [https://google.com/](https://google.com/)
