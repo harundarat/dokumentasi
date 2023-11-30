@@ -42,6 +42,14 @@ npx hardhat test
 ![Alt text](https://bafkreic2ckiiyrbcuw7h7djs4wry3wmxeyaq5ofp26jvyr5vuo6tja7uza.ipfs.nftstorage.link/)
 
 ### Deployment
+1\. From project's root directory, go to contract directory:  
+``` bash
+cd contract
+```
+2\. Run this command in terminal:
+``` bash
+npx thirdweb@latest deploy
+```  
 
 ### Contract Address
 
