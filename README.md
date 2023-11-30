@@ -19,7 +19,7 @@ Here're some of the project's best features:
 ## 🛠️Development Steps
 
 > [!NOTE]
-> EcoSaver development requires currently maintained [Node.js](https://nodejs.org/en) LTS version.
+> _EcoSaver development requires currently maintained [Node.js](https://nodejs.org/en) LTS version._
 
 ### Setup/Installation:
 
