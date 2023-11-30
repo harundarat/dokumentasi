@@ -39,7 +39,7 @@ cd contract
 npx hardhat test
 ```  
 3\. Make sure all tests are checked:  
-![Alt text](https://bafkreic2ckiiyrbcuw7h7djs4wry3wmxeyaq5ofp26jvyr5vuo6tja7uza.ipfs.nftstorage.link/ "a title")
+![Alt text](https://bafkreic2ckiiyrbcuw7h7djs4wry3wmxeyaq5ofp26jvyr5vuo6tja7uza.ipfs.nftstorage.link/)
 
 ### Deployment
 
