@@ -50,8 +50,11 @@ cd contract
 ``` bash
 npx thirdweb@latest deploy
 ```
-3\. Select all contract using `Space` then `Enter`:  
+3\. Select all contract using `Space`, then `Enter`:  
 ![Alt text](https://coral-mad-vole-745.mypinata.cloud/ipfs/QmW2ppJWJWurNpiMjP88UMtt8PkbriChkhcE5JG1E3MGej)  
+4\. You'll redirected to thirdweb deploy contracts page. Choose one of:  
+![Alt text](https://coral-mad-vole-745.mypinata.cloud/ipfs/QmUyEdFNjEK8PUntkjDttQe2cHHNCNAcB3Xu1ZgSAZTLzz)  
+
 
 ### Contract Address
 
