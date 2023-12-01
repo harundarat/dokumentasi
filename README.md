@@ -52,9 +52,10 @@ npx thirdweb@latest deploy
 ```
 3\. Select all contract using `Space`, then `Enter`:  
 ![Alt text](https://coral-mad-vole-745.mypinata.cloud/ipfs/QmW2ppJWJWurNpiMjP88UMtt8PkbriChkhcE5JG1E3MGej)  
-4\. You'll redirected to thirdweb deploy contracts page. Choose one of:  
+4\. You'll redirected to thirdweb deploy contracts page. Choose one of them. Later, you'll need to repeat this step for other contracts:  
 ![Alt text](https://coral-mad-vole-745.mypinata.cloud/ipfs/QmUyEdFNjEK8PUntkjDttQe2cHHNCNAcB3Xu1ZgSAZTLzz)  
-
+5\. Choose network, then deploy:  
+![Alt text](https://coral-mad-vole-745.mypinata.cloud/ipfs/QmNvMDRcmF6xKrwFpiDfkQRKiuSNdLZ9j1GGJjhgSG89TR)  
 
 ### Contract Address
 
