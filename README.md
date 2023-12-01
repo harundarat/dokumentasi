@@ -56,6 +56,7 @@ npx thirdweb@latest deploy
 ![Alt text](https://coral-mad-vole-745.mypinata.cloud/ipfs/QmUyEdFNjEK8PUntkjDttQe2cHHNCNAcB3Xu1ZgSAZTLzz)  
 5\. Choose network, then deploy:  
 ![Alt text](https://coral-mad-vole-745.mypinata.cloud/ipfs/QmNvMDRcmF6xKrwFpiDfkQRKiuSNdLZ9j1GGJjhgSG89TR)  
+6\. Repeat step 4 until all contracts are deployed.
 
 ### Contract Address
 
