@@ -4,7 +4,7 @@ This website allows users to create crowdfunding campaign and collect funds from
 
 ## 🚀 Demo
 
-[https://ecosaver.netlify.app/](https://ecosaver.netlify.app/)
+[https://ecosaver.netlify.app/](https://ecosaver.netlify.app/){:target="_blank"}
 
 ## 🧐 Features
 
